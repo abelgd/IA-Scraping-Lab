@@ -1,4 +1,4 @@
-# IA-Scraping-Lab
+# Café La esquina - IA-Scraping-Lab
 
 Este repositorio sirve como prueba práctica sobre la propuesta de uso del archivo `llms.txt`, un formato emergente que se quiere implementar para que los crawlers de IA puedan recoger información de manera estructurada y controlada.
 
